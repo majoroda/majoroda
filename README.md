@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Daniel Daniel Udo-akang 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -14,11 +14,12 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
-
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I'm a DevOps/Cloud Engineer with 5+ years experience in Continuous Integration and Continuous Delivery
+(CI/CD) pipeline development, automation and management. Subject matter expert on Servers/Instances, Software
+Development Life Cycle (SDLC), Containers, Linux, AWS, and Configuration management. Able to deliver solutions
+using automation scripting and making decisions quickly. Key strength include troubleshooting, strong
+interpersonal skills, cross functional collaboration, the ability to identify problems and implement solutions, critical
+thinking, prioritizing, flexibility, communication, and creativity.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
