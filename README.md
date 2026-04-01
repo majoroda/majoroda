@@ -32,8 +32,9 @@ thinking, prioritizing, flexibility, communication, and creativity.
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Advanced AWS architecture
+- Kubernetes & container orchestration
+- Monitoring & logging (Prometheus, Grafana)
 
 ## 🛠️ Technical Skillset
 
